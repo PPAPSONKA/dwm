@@ -1,0 +1,1 @@
+/home/akos/scripts/autostart.sh
